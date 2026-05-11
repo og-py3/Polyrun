@@ -1,4 +1,7 @@
-# polyrun
+# Polyrun
+
+**By Haripriyan**
+
 
 > **Run Java, Node.js, JavaScript, C, C++, Rust, and Go — all from Python.**
 
